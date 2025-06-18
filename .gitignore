@@ -1,0 +1,6 @@
+modules
+.DS_Store
+.vscode
+*.obj
+platform_native
+platform_native.exe
